@@ -1,4 +1,4 @@
-# Project 3 readme
+# Project readme
 The objective of this project to repeat the soccer game experiments by Greenwald et al. (2003). The soccer game is a multi-agent, 2-player, zero-sum game. Correlated-Q, foe-Q, friend-Q and Q-learning are the method used.
 # Instructions
 The codes are included in the **cs7642_p3_soccer_game.py** file. The code has 2 main classes:
